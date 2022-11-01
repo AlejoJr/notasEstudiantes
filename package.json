@@ -2,7 +2,7 @@
   "name": "notas_estudiantes",
   "version": "0.1.0",
   "engines": {
-    "node": "6.11.1"
+    "node": "16.13.0"
   },
   "private": true,
   "dependencies": {
